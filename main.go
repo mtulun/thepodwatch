@@ -23,6 +23,7 @@ func main() {
 	xdata := getdataobject()
 
 	email(sendermail, receivermail, senderpass, xdata)
+
 }
 
 func email(smail string, rmail string, spwd string, dt []string) {
