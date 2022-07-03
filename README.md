@@ -1,5 +1,5 @@
 # thepodwatch
-Monitors the pods and sends us an e-mail.
+Monitors the pods and sends e-mail.
 
 ## The Pod Watch
 
